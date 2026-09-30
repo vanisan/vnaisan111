@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Hero RPG Clicker",
+  "description": "Indie 2D pixel-art RPG clicker with animated hero, platformer auto-combat, 6 gear slots, set bonuses, crafting forge, and high-stakes gacha loot chests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
